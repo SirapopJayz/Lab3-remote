@@ -5,8 +5,10 @@
 **StudentID** : 61070241
 
 **Name** : Sirapop Rukkua
-> *King mongkut's institute of technology ladkrabang*
+> [*IT @ KMITL*](https://www.kmitl.ac.th )
 
 ```
-print("hello word")
+print("Hello world, IT @ KMITL")
 ```
+
+[![IT LOGO](https://www.it.kmitl.ac.th/wp-content/themes/itkmitl2017wp/img/nav-thai.svg)](https://www.it.kmitl.ac.th)
